@@ -21,6 +21,18 @@ async def bro(ctx):
 
 @bot.command()
 async def heh(ctx, count_heh = 5):
-    await ctx.send("he" * count_heh)
+    await ctx.send("heh" * count_heh)
+
+@bot.command()
+async def hah(ctx, count_hah = 5):
+    await ctx.send("hah" * count_hah)
+
+@bot.command()
+async def hooh(ctx, count_hooh = 5):
+    await ctx.send("hooh" * count_hooh)
+
+@bot.command()
+async def xixi(ctx, count_xixi = 5):
+    await ctx.send("xixi" * count_xixi)
 
 bot.run("MTE1NzU4NjU2NDU0MTU4MzQxMA.GxLatV.4xsEr5p4HPtTQgGG890A7VHvjwgJ57TOxAGK6Q")
