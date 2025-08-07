@@ -24,4 +24,5 @@ async def on_message(message):
     else:
         await message.channel.send(message.content)
 
-client.run("MTE1NzU4NjU2NDU0MTU4MzQxMA.GxLatV.4xsEr5p4HPtTQgGG890A7VHvjwgJ57TOxAGK6Q")
+
+client.run("Your Client Bot")
