@@ -35,4 +35,5 @@ async def hooh(ctx, count_hooh = 5):
 async def xixi(ctx, count_xixi = 5):
     await ctx.send("xixi" * count_xixi)
 
-bot.run("MTE1NzU4NjU2NDU0MTU4MzQxMA.GxLatV.4xsEr5p4HPtTQgGG890A7VHvjwgJ57TOxAGK6Q")
+bot.run("Your Client Bot(token)")
+
